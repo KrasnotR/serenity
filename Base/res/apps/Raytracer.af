@@ -1,0 +1,4 @@
+[App]
+Name=Raytracer
+Executable=/bin/Raytracer
+Category=Demos
